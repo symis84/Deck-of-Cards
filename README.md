@@ -16,5 +16,5 @@ other commands:
 
 ## Demo
 
-- Video demo url: 
+- Video demo url: https://youtu.be/p6_H25b7CK8
 
