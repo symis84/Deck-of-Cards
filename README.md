@@ -14,7 +14,7 @@ other commands:
 - grunt test //project testing  
 - grunt serve //project running (develop mode)
 
-## Motivation
+## Demo
 
-- Video demo: 
+- Video demo url: 
 
